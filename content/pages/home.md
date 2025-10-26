@@ -5,7 +5,7 @@ hero:
   title: "hi, I am Manas"
 --- -->
 
-Currently working as a Technical Lead @ IDfy. Into programming, architecting scalable distributed systems, pro wrestling, collecting watches and rare books.
+Currently working as a Technical Lead @ **[IDfy](https://www.idfy.com/)**. Into programming, architecting scalable distributed systems, pro wrestling, collecting watches and rare books.
 
 Sporadically, I write **[blogs](/blog)**.
 

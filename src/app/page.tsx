@@ -17,12 +17,12 @@ export default function Home() {
         {/* Profile Picture */}
         <div className="text-center mb-8">
           <div className="inline-block">
-            <div className="w-32 h-32 rounded-full overflow-hidden bg-gray-200 mx-auto mb-6">
+            <div className="w-80 h-80 rounded-full overflow-hidden bg-gray-200 mx-auto mb-6">
               <Image
                 src="/profile.jpg"
                 alt="Profile picture"
-                width={128}
-                height={128}
+                width={320}
+                height={320}
                 className="w-full h-full object-cover"
                 priority
               />
