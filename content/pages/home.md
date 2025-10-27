@@ -13,7 +13,5 @@ Sporadically, I write **[blogs](/blog)**.
 
 
 
-email: manas.oid@gmail.com
-
-**[github](https://github.com/manaschaturvedi)** | **[twitter](https://x.com/manas_oid)** | **[linkedin](https://linkedin.com/in/manaschaturvedi2202)**
+**[github](https://github.com/manaschaturvedi)** | **[twitter](https://x.com/manas_oid)** | **[linkedin](https://linkedin.com/in/manaschaturvedi2202)** | **[Email](manas.oid@gmail.com)**
 

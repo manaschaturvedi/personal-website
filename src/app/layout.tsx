@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://manas.dev",
+    url: "https://manasch.xyz",
     title: "Manas - Engineer & Developer",
     description: "I'm an engineer from India who loves creating things. Building systems from scratch and working across the stack.",
     siteName: "Manas",
